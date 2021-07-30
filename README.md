@@ -4,4 +4,4 @@
 - The aim of the project is to implement program without using a data structure other than stack.
 - Rules & Scoring :
 
-![gameplay](gameplay.png)
+![rules](rules.png)
